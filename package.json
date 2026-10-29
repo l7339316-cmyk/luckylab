@@ -1,0 +1,14 @@
+{
+  "name": "luckylab-virtual-games",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Virtual-coin casino-style game prototype. No real money.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
